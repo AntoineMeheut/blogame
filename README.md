@@ -1,45 +1,66 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GNU License][license-shield]][license-url]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/AntoineMeheut/blogame">
+    <img src="images/Antoine.png" alt="LattePanda" width="150" height="150">
+  </a>
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+  <h3 align="center">Blog sur la cybersécurité</h3>
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+  <p align="center">
+    Partage pour apprendre la cybersécurité et la sécurité applicative.
+    <br />
+    <br />
+    <a href="https://github.com/AntoineMeheut/blogame/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/AntoineMeheut/blogame/projects">Request Feature</a>
+  </p>
+</p>
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+<!-- ABOUT THE PROJECT -->
+## A propos de ce projet
+TODO
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+<!-- CONTRIBUTING -->
+## Contributing
 
-## Prerequisites
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
+Any contributions you make are **greatly appreciated**.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
+<!-- LICENSE -->
 ## License
 
-This work is published under [MIT][mit] License.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+<!-- CONTACT -->
+## Contact
+
+If you want to contact me [just clic](mailto:github.contacts@protonmail.com)
+
+Project Link: [https://github.com/AntoineMeheut/blogame](https://github.com/AntoineMeheut/blogame)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/AntoineMeheut/blogame?color=green
+[contributors-url]: https://github.com/AntoineMeheut/blogame/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AntoineMeheut/blogame
+[forks-url]: https://github.com/AntoineMeheut/blogame/network/members
+[stars-shield]: https://img.shields.io/github/stars/AntoineMeheut/blogame
+[stars-url]: https://github.com/AntoineMeheut/blogame/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AntoineMeheut/blogame
+[issues-url]: https://github.com/AntoineMeheut/blogame/issues
+[license-shield]: https://img.shields.io/github/license/AntoineMeheut/blogame
+[license-url]: https://github.com/AntoineMeheut/blogame/blob/master/LICENSE
