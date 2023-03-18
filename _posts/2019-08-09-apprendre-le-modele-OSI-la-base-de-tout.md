@@ -27,4 +27,6 @@ Ce modèle pourra vous être très utile pour comprendre comment l'informatique 
   * 1 Physique : Transmission des signaux sous forme numérique ou analogique
 
 # Première notions de logs (traces)
-TODO
+Tous les systèmes qui véhicules de l'informations disposent de mécanisme d'enregistrement de leur utilisation, c'est ce que l'on nomme les logs ou encore traces. Lorsque vous utilisez votre téléphonne portable, celui-ci échange avec les antennes relais qui servent à véhiculer vos appels et y laisse des traces. Idem avec votre ordinateur ou votre tablette sur internet. Lorsque vous vous connectez à un serveur, celui-ci pourra enregistrer des informations sur votre connexion, que ce soit le serveur de votre FAI (Fournisseur d'Accès à Internet) ou bien le serveur d'un blog que vous êtes en train de lire.
+
+
