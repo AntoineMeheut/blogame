@@ -33,3 +33,9 @@ Beaucoup peut-être fait !
 * Apprendre les bases des techniques utilisées par les personnes qui souhaite détourner un usage et apprendre ainsi à s'en protéger.
 * Se protéger avec des bonnes pratiques, des outils et surtout des équipes qui agirons et partagerons leurs pratiques,
 * Et enfin vulgariser et partager ce savoir au plus grand nombre, car c'est l'ignorance, qui est la plus grande aide aux acteurs qui souhaitent détourner un système d'information.
+
+# Pour en apprendre plus
+
+* [ISO/IEC 27034-1](https://www.iso.org/fr/standard/44378.html)
+* [Owasp](https://owasp.org/#)
+* [ANSSI](https://www.ssi.gouv.fr/)
