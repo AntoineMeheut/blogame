@@ -29,4 +29,14 @@ Ce modèle pourra vous être très utile pour comprendre comment l'informatique 
 # Première notions de logs (traces)
 Tous les systèmes qui véhicules de l'informations disposent de mécanisme d'enregistrement de leur utilisation, c'est ce que l'on nomme les logs ou encore traces. Lorsque vous utilisez votre téléphonne portable, celui-ci échange avec les antennes relais qui servent à véhiculer vos appels et y laisse des traces. Idem avec votre ordinateur ou votre tablette sur internet. Lorsque vous vous connectez à un serveur, celui-ci pourra enregistrer des informations sur votre connexion, que ce soit le serveur de votre FAI (Fournisseur d'Accès à Internet) ou bien le serveur d'un blog que vous êtes en train de lire.
 
+Les logiciels sont partout dans nos vies aujourd'hui et donc les traces aussi. Même votre voiture, car à moins que vous ayez un modèle construit dans les années 20, l'ordinateur de bord enregistre des informations sur votre utilisation.
 
+Imaginons que vous décidiez d'éteindre tous vos équipements informatiques et de les laiser chez vous lors de votre prochaine promenade. Vous laisserez quand même des traces de votre déplacement, avec votre carte électronique de transport en commun. Bon, OK, vous décidez de marcher, c'est chouette pour la santé et vos basquettes ne vont quand pas pas laisser trop de traces sur le bitume. Et bien pendant que vous regarderez vos chaussures, une caméra de surveillance placée sur un réverbère, aura enregistrée votre passage.
+
+Pensez donc à cela, avant que nous passions à la pratique, dans les prochains articles, ne pas laisser de traces dans notre vie actuelle est une chose exessivement difficile à réaliser.
+
+Dans les prochains articles nous étudierons comment les hackers travaillent, vous partager les bases et la compréhension des théories et des outils et un très bon moyens de vous informer sur les risques d'attaque, ainsi que de vous apprendre à vous en protèger.
+
+Les exercices pratiques seront donc réalisés dans ce que l'on appelle un réseau local (en gros chez vous et pas sur internet), si vous attaquez votre propre site web ou des serveurs qui sont chez vous, personne en théorie ne vous en voudra. Si vous utilisez ces techniques pour sortir de votre réseau local et de vos serveurs, pensez bien au fait que vous laisserez des traces et que les personnes qui pourraient vous en vouloir, pourront vous retrouver et demander aux autorités de vous retrouver.
+
+Nous verrons donc aussi dans les prochains articles ce que sont les réseaux informatiques et comment ils sont organisés, pour vous apprendre à naviguer et vous aider à identifier où vous êtes, avant de pratiquer quoi que ce soit.
