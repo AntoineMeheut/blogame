@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Antoine Meheut
-  email: antoine_meheut@watay.fr # change to your email address
+  email: github.contacts@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/AntoineMeheut # change to your github homepage
@@ -75,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /images/Antoine.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
