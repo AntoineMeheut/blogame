@@ -26,3 +26,10 @@ Les années 2020 voient l'explosion des nouveaux modes de télétravail et aussi
 
  Dans le même temps, les couches basses du modèle OSI étants de mieux en mieux sécurisées, les hackers migrent vers les couches hautes et pratiquent de plus en plus d'attaques sur les applications, en exploitant les failles de sécurités de celles-ci.
  
+ # Pour en apprendre plus
+
+* [John Draper](https://fr.wikipedia.org/wiki/John_Draper)
+* [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
+* [Jon Johansen](https://fr.wikipedia.org/wiki/Jon_Lech_Johansen)
+* [Kevin Mitnick](https://fr.wikipedia.org/wiki/Kevin_Mitnick)
+* [Kevin Poulsen](https://fr.wikipedia.org/wiki/Kevin_Poulsen)
