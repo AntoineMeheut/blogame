@@ -44,3 +44,7 @@ Dans les prochains articles, nous étudierons comment les hackers travaillent, v
 Les exercices pratiques seront donc réalisés dans ce que l'on appelle un réseau local (en gros chez vous et pas sur Internet), si vous attaquez votre propre site web ou des serveurs qui sont chez vous, personne en théorie ne vous en voudra. Si vous utilisez ces techniques pour sortir de votre réseau local et de vos serveurs, pensez bien au fait que vous allez laisser des traces et que les personnes qui pourraient vous en vouloir, pourront vous retrouver et demander aux autorités de vous retrouver.
 
 Nous verrons donc aussi dans les prochains articles ce que sont les réseaux informatiques et comment ils sont organisés, pour vous apprendre à naviguer et à vous aider à identifier où vous êtes, avant de pratiquer quoi que ce soit.
+
+# Pour en apprendre plus
+
+* [Traces numériques](https://fr.wikipedia.org/wiki/Trace_num%C3%A9rique)
