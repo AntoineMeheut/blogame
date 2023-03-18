@@ -10,7 +10,7 @@ Je suis aujourd’hui développeur et manager, responsable de la définition, de
 
 Je suis spécialisé dans le traitement de grands volumes d’informations en temps réel, dans l’activité DevSecOps et en particulier dans la sécurité applicative.
 
-Je pratique une veille technologique pour identifier des innovations et les appliquer sur mes domaines d’activité. J’aime aussi beaucoup vulgariser les technologies pour partager cette connaissance au plus grand nombre et les aider à comprendre les cas d’usages qu’ils peuvent en faire.
+J'aime innover sur mes domaines d’activité. J’aime aussi beaucoup vulgariser les technologies pour partager cette connaissance au plus grand nombre et les aider à comprendre les cas d’usages qu’ils peuvent en faire.
 
 Je contribue en tant que développeur à des projets open source tel que le Green Code Initiative et partage mes connaissances avec d’autres entreprises ou en intervenant dans des salons professionnels.
 {: .prompt-tip }
