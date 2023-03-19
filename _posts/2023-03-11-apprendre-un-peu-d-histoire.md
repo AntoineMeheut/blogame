@@ -8,7 +8,11 @@ tags: [Apprendre]
 
 La devise des premiers "hackers" était « Make, learn, share ». Dans les universités ils ont créés les bases d’une organisation fondée sur l'étude, le partage et la coopération.
 
-Dans les années 70, une marque de céréales, baptisées « Cap’n Crunch », dont la mascotte est un sympathique pirate à moustache, offre pour fidéliser sa jeune clientèle un petit sifflet. Un ingénieur californien, John Draper, bientôt surnommé Cap’n Crunch, découvre qu’en le trafiquant légèrement, il peut reproduire la tonalité utilisée par l’opérateur téléphonique Bell pour commuter les appels et, accessoirement, passer des coups de fil gratuits. John Draper y voit un moyen de s’affranchir du prix exorbitant des communications téléphoniques, et de rendre ainsi la circulation de l’information libre et gratuite. Le premier grand acte du phreaking, mouvement "hacker" de la première heure, vient d’être réalisé.
+Dans les années 70, une marque de céréales, baptisées « Cap’n Crunch », dont la mascotte est un sympathique pirate à moustache, offre pour fidéliser sa jeune clientèle un petit sifflet. Un ingénieur californien, John Draper, bientôt surnommé Cap’n Crunch, découvre qu’en le trafiquant légèrement, il peut reproduire la tonalité utilisée par l’opérateur téléphonique Bell pour commuter les appels et, accessoirement, passer des coups de fil gratuits.
+
+Il a lui-même démenti cette légende dans le documentaire « Pir@tage », dans lequel il raconte qu'un jour, en faisant des tests sur un émetteur radio FM sur lequel il a communiqué son numéro de téléphone, ce fut Joe Engressia qui lui répondit, en lui disant qu'il hackait lui aussi mais seulement les téléphones et qu'il connaissait une manière pour téléphoner gratuitement, en émettant un signal de 2 600 hertz.
+
+John Draper y voit un moyen de s’affranchir du prix exorbitant des communications téléphoniques, et de rendre ainsi la circulation de l’information libre et gratuite. Le premier grand acte du phreaking, mouvement "hacker" de la première heure, vient d’être réalisé.
 
 A la même époque, Richard Stallman étudiant en physique et en mathématique, est un jour confronté à un banal problème de bourrage papier sur l’imprimante de son laboratoire. Il tente d’accéder au programme qui la fait fonctionner pour en corriger les défauts. Il découvre alors que le code source est protégé. Xerox le fabricant, veut commercialiser et protéger ce produit. Et ne souhaite donc pas partager son logiciel. Stallman décide de se lancer dans une croisade. Les logiciels et les codes doivent être libres. Il y consacrera sa vie.
 
@@ -29,6 +33,7 @@ Les années 2020 voient l'explosion des nouveaux modes de télétravail et aussi
  # Pour en apprendre plus
 
 * [John Draper](https://fr.wikipedia.org/wiki/John_Draper)
+* [Joe Engressia](https://en.wikipedia.org/wiki/Joybubbles)
 * [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
 * [Jon Johansen](https://fr.wikipedia.org/wiki/Jon_Lech_Johansen)
 * [Kevin Mitnick](https://fr.wikipedia.org/wiki/Kevin_Mitnick)
