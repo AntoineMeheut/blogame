@@ -26,7 +26,7 @@ Plus récemment la culture hackers explose et de nombreux partages se font sur l
 
 Les années 2020 voient l'explosion des nouveaux modes de télétravail et aussi des attaques contre les particuliers, les organisations et les entreprises de toutes sortes et cela modialement.
  
- Le hacker devient aussi un combattant dans les guerres modernes et les états actifs depuis longtemps déjà dans ce type d'activité se renforce en créant des groupes qui coordonnent leurs actions avec les armées ou services de renseignements.
+ Le hacker devient aussi un combattant dans les guerres modernes et les états actifs depuis longtemps déjà dans ce type d'activité se renforcent en créant des groupes qui coordonnent leurs actions avec les armées ou services de renseignements.
 
  Dans le même temps, les couches basses du modèle OSI étants de mieux en mieux sécurisées, les hackers migrent vers les couches hautes et pratiquent de plus en plus d'attaques sur les applications, en exploitant les failles de sécurités de celles-ci.
  
