@@ -5,12 +5,12 @@ platforms:
 
   - type: Github
     icon: "fab fa-brands fa-square-github"
-    link: "https://github.com/AntoineMeheut?url=URL"
+    link: "https://github.com/AntoineMeheut"
 
   - type: Gitlab
     icon: "fab fa-brands fa-square-gitlab"
-    link: "https://gitlab.com/AntoineMeheut?url=URL"
-    
+    link: "https://gitlab.com/AntoineMeheut"
+
   # - type: Telegram
   #   icon: "fab fa-telegram"
   #   link: "https://t.me/share/url?url=URL&text=TITLE"
