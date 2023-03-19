@@ -1,10 +1,12 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+  icon: 'fab fa-brands fa-square-github'
+  url: 'https://github.com/AntoineMeheut'
 
-# - type: twitter
-#   icon: "fab fa-twitter"
+- type: gitlab
+  icon: 'fab fa-brands fa-square-gitlab'
+  url: 'https://gitlab.com/AntoineMeheut'
 
 - type: email
   icon: "fas fa-envelope"
