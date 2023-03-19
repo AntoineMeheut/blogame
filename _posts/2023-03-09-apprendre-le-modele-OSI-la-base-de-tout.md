@@ -1,7 +1,7 @@
 ---
 title: Le modèle OSI la base de tout.
 author: Antoine Meheut
-date: 2023-08-09 22:55:00
+date: 2023-03-09 22:55:00
 categories: [Cybersécurité, OSI, Apprendre]
 tags: [Apprendre]
 pin: true

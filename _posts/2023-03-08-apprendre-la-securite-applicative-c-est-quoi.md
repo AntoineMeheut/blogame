@@ -1,7 +1,7 @@
 ---
 title: La sécurité applicative c'est quoi ?
 author: Antoine Meheut
-date: 2023-08-08 22:10:00
+date: 2023-03-08 22:10:00
 categories: [Sécurité applicative, Apprendre]
 tags: [Apprendre]
 render_with_liquid: false
