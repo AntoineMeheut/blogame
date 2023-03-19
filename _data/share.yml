@@ -2,6 +2,9 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
+  - type: github
+  icon: "fab fa-github"
+  link: https://github.com/AntoineMeheut/blogame
   # - type: Twitter
   #   icon: "fab fa-twitter"
   #   link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
