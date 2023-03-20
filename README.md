@@ -18,6 +18,8 @@
     Partage pour apprendre la cybersécurité et la sécurité applicative.
     <br />
     <br />
+    <a href="https://antoinemeheut.github.io/blogame">Liens vers le Blog</a>
+    ·
     <a href="https://github.com/AntoineMeheut/blogame/issues">Report Bug</a>
     ·
     <a href="https://github.com/AntoineMeheut/blogame/projects">Request Feature</a>
