@@ -26,7 +26,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## A propos de ce projet
-TODO
+J'ai créé un blog pour partager mes connaissances sur la cybersécurité et la sécurité applicative. Ce blog est construit avec des articles pour apprendre et des articles pour pratiquer.
+
+J'ai souhaité aussi partager le blog lui-même qui est construit en utilisant [Github Pages](https://pages.github.com/) et [Jekyll](https://jekyllrb.com/).
 
 <!-- CONTRIBUTING -->
 ## Contributing
